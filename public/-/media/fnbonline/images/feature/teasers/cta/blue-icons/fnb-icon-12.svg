@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 40 40" style="enable-background:new 0 0 40 40;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;}
+	.st2{clip-path:url(#SVGID_2_);}
+	.st3{fill:none;stroke:#00478C;stroke-width:1.5;stroke-miterlimit:10;}
+	.st4{clip-path:url(#SVGID_4_);fill:#A80D32;}
+	.st5{fill:#FFFFFF;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+	.st6{fill-rule:evenodd;clip-rule:evenodd;fill:#FFFFFF;}
+	.st7{fill:#00478C;}
+	.st8{clip-path:url(#SVGID_8_);fill:#A80D32;}
+	.st9{fill:url(#SVGID_11_);}
+	.st10{fill:url(#SVGID_12_);}
+	.st11{fill:url(#SVGID_13_);}
+	.st12{fill:url(#SVGID_14_);}
+	.st13{fill:url(#SVGID_15_);}
+	.st14{fill:url(#SVGID_16_);}
+	.st15{fill:none;stroke:#FFFFFF;stroke-width:1.25;stroke-miterlimit:10;}
+	.st16{fill:url(#SVGID_17_);}
+	.st17{fill:url(#SVGID_18_);}
+	.st18{fill:url(#SVGID_19_);}
+	.st19{fill:url(#SVGID_20_);}
+	.st20{fill:url(#SVGID_21_);}
+	.st21{fill:url(#SVGID_22_);}
+	.st22{fill-rule:evenodd;clip-rule:evenodd;fill:#00478C;}
+	.st23{fill:none;stroke:#00478C;stroke-width:1.5;stroke-linecap:square;stroke-miterlimit:10;}
+	.st24{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#00478C;stroke-width:1.5;stroke-miterlimit:10;}
+	.st25{fill-rule:evenodd;clip-rule:evenodd;fill:none;stroke:#000000;stroke-width:1.5;stroke-miterlimit:10;}
+	.st26{fill:none;stroke:#00478C;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:10;}
+	.st27{fill:none;stroke:#000000;stroke-width:1.5;stroke-linecap:round;stroke-miterlimit:10;}
+</style>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="39.765" y1="8.5994" x2="4.1226" y2="29.1582">
+	<stop  offset="0" style="stop-color:#00C3E5"/>
+	<stop  offset="0.0251" style="stop-color:#00BFE2"/>
+	<stop  offset="0.4884" style="stop-color:#007FB4"/>
+	<stop  offset="0.8258" style="stop-color:#005697"/>
+	<stop  offset="1" style="stop-color:#00478C"/>
+</linearGradient>
+<circle style="fill:url(#SVGID_2_);" cx="20" cy="20" r="20"/>
+<g>
+	<path class="st15" d="M7.5,24.88V12.2c0-1.23,1-2.23,2.23-2.23h20.54c1.23,0,2.23,1,2.23,2.23v12.69"/>
+	<path class="st15" d="M25.69,24.87c-0.14,0.29-0.43,0.49-0.77,0.49h-9.85c-0.34,0-0.63-0.2-0.77-0.49H5v0.93
+		c0,1.23,1,2.23,2.23,2.23h25.55c1.23,0,2.23-1,2.23-2.23v-0.93H25.69z"/>
+	<path class="st15" d="M9.88,24.79V12.95c0-0.35,0.28-0.63,0.63-0.63h18.97c0.35,0,0.63,0.28,0.63,0.63v9.18"/>
+	<g>
+		<path class="st15" d="M18.54,20.09c0,0.81,0.65,1.46,1.46,1.46s1.46-0.65,1.46-1.46c0-0.81-0.66-1.32-1.46-1.46
+			c-0.79-0.13-1.46-0.65-1.46-1.46c0-0.81,0.65-1.46,1.46-1.46s1.46,0.65,1.46,1.46"/>
+		<g>
+			<line class="st15" x1="20" y1="21.48" x2="20" y2="23.04"/>
+			<line class="st15" x1="20" y1="14.22" x2="20" y2="15.78"/>
+		</g>
+	</g>
+</g>
+</svg>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="72px" height="75px" viewBox="0 0 72 75" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Slice</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="fnb-ico-pdf" transform="translate(-9.000000, -2.000000)">
+            <g id="ICO-PDF" transform="translate(10.000000, 2.000000)">
+                <g id="PDF" transform="translate(17.000000, 34.000000)" fill="#FFFFFF" fill-rule="nonzero" font-family="Helvetica" font-size="20.16" font-weight="normal">
+                    <text>
+                        <tspan x="0.9325" y="20.8982">PDF</tspan>
+                    </text>
+                </g>
+                <polyline id="Page" stroke="#FFFFFF" stroke-width="2" points="15 35.5 15 1.2 48.2 1.2 70 22.8 70 74.2 15 74.2 15 59"></polyline>
+                <g id="Banner" transform="translate(0.000000, 35.000000)" fill="#FFFFFF" fill-rule="nonzero">
+                    <path d="M57.9,2.3 L57.9,23.6 L2.9,23.6 L2.9,2.3 L57.9,2.3 M59.9,0.3 L0.9,0.3 L0.9,25.6 L59.9,25.6 L59.9,0.3 L59.9,0.3 Z" id="Shape"></path>
+                </g>
+                <polyline id="Corner" stroke="#FFFFFF" stroke-width="2" points="47.5 0.2 47.5 22.9 70.2 22.9"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>newcart2</title>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="MOB-Pre-Login-(36-x-36)" stroke="#fff" stroke-width="2">
+            <g id="Cart-v-2" transform="translate(1.773916, 3.198076)">
+                <path d="M29.6259886,4.88298756 C29.902131,4.88298756 30.152131,4.99491638 30.3330954,5.17588078 C30.4999095,5.34269492 30.6080623,5.56817047 30.623956,5.81870987 L30.623956,5.81870987 L28.845655,17.2466384 C28.8073111,17.4896946 28.6833962,17.7007371 28.5075518,17.8510155 C28.3317073,18.0012938 28.1039333,18.0908082 27.8578712,18.0908082 L27.8578712,18.0908082 L10.5038707,18.0908082 L7.76824017,4.88298756 Z" id="Rectangle"></path>
+                <polyline id="Path-2" stroke-linecap="round" points="-3.96279432e-16 0 2.96623801 0 7.38605497 3.88298756 10.4974586 19.0908082 10.4974586 23 28.5549425 23"></polyline>
+                <circle id="Oval" cx="11.966238" cy="27.8871773" r="2"></circle>
+                <circle id="Oval" cx="26.966238" cy="27.8871773" r="2"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
