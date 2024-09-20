@@ -85,13 +85,13 @@ $captcha = "$n1$n2$n3$n4$n5$n6";
     <link id="skin-default" rel="stylesheet" href="assets/css/theme.css?ver=2.4.0">
     <link href="css/toastr.css" rel="stylesheet" />
 </head>
-<script type="text/javascript">
+<!-- <script type="text/javascript">
     function googleTranslateElementInit() {
         new google.translate.TranslateElement({ pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE }, 'google_translate_element');
     }
 </script>
 <script type="text/javascript"
-    src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+    src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script> -->
 <style>
     .goog-te-gadget-simple {
         border: none;
