@@ -510,10 +510,10 @@
                 </p>
 
                 <a class="cta-strip__cta blue-block-button blue-block-button--next-arrow" target="" alt="Get Started"
-                    title="Get Started" aria-label="Get Started" href="/estore-common-app">Get Started</a>
+                    title="Get Started" aria-label="Get Started" href="#">Get Started</a>
             </div>
 
-            <a href="/estore-common-app" class="cta-strip--mobile-view" target="" alt="Get Started" title="Get Started"
+            <a href="#" class="cta-strip--mobile-view" target="" alt="Get Started" title="Get Started"
                 aria-label="Get Started">
                 <div class="cta-strip__content-wrap">
                     <div class="cta-strip__icon-wrap cta-strip__icon-wrap--">
