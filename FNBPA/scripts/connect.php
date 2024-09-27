@@ -6,7 +6,7 @@ ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 // }
 $servername = "131.153.148.82";
-$username = "arrivelo_fnbcorp1";
+$username = "arrivelo_fnbcorp";
 $dbname = "arrivelo_fnbcorp";
 $password = "admin@00154abS/";
 
