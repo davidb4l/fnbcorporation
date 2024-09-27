@@ -91,7 +91,8 @@ if ($_GET['action'] == "deposit_crypto") {
                                 <div class="nk-block-text">
                                     <div class="caption-text">You are about to get
                                         <strong><?php cryptoConverter2($amount, $coin) ?></strong> <?php echo $coin ?> for
-                                        <strong><?php echo $amount ?></strong> USD*</div>
+                                        <strong><?php echo $amount ?></strong> USD*
+                                    </div>
                                     <span class="sub-text-sm">Exchange rate: 1 <?php echo $coin ?> =
                                         <?php cryptoConverter(1, $coin); ?> USD</span>
                                 </div>
@@ -601,7 +602,7 @@ if ($_GET['action'] == "user_pass_reset") {
         </script>";
         ?>
         <meta http-equiv="refresh" content="4; url=logout">
-    <?php
+        <?php
     }
 
 
@@ -732,7 +733,7 @@ if ($_GET['action'] == "userLogin") {
 
                     //CHECK IF TWO FACTOR AUTH IS ENABLE
                     if ($tfa == "active") {
-                        $mail = new PHPMailer;
+                        $mail = new PHPMailer(false);
                         $mail->isSMTP();
                         $mail->Host = $smtp_host;
                         $mail->SMTPAuth = true;
@@ -744,6 +745,7 @@ if ($_GET['action'] == "userLogin") {
                         $ipa = $_SERVER['REMOTE_ADDR'];
                         $mail->setFrom($smtp_username, $display_name);
                         $mail->addReplyTo($smtp_username, $display_name);
+                        $mail->addAddress($email);
                         $auth_code = randomNumber(4);
                         $_SESSION['auth_code'] = $auth_code;
                         $url = $site_url;
@@ -752,7 +754,6 @@ if ($_GET['action'] == "userLogin") {
                         $auth_url = "$url$addr";
                         $ua = getBrowser();
                         $browser = " " . $ua['name'] . " on " . $ua['platform'] . "";
-                        $mail->addAddress($_SESSION['email']);
                         //subject
                         $mail->Subject = "New device confirmation";
                         $mail->isHTML(true);

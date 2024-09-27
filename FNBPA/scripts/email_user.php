@@ -41,7 +41,7 @@ if (isset($_POST)) {
   // die();
   // }
 
-  $mail = new PHPMailer(true);
+  $mail = new PHPMailer(false);
   $mail->isSMTP();
   $mail->SMTPDebug = 0;
   $mail->Host = $smtp_host;
