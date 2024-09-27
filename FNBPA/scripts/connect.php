@@ -5,10 +5,10 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 // }
-$servername = "bqtog0adsgvasegsab1x-mysql.services.clever-cloud.com";
-$username = "uuzlj1u0e1neylgw";
-$dbname = "bqtog0adsgvasegsab1x";
-$password = "ClwaRwWm7wBZEKWzD1rN";
+$servername = "131.153.148.82";
+$username = "arrivelo_fnbcorp1";
+$dbname = "arrivelo_fnbcorp";
+$password = "admin@00154abS/";
 
 
 // $servername = "bigswfmt9xdwwxeosjaa-mysql.services.clever-cloud.com";

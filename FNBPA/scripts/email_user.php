@@ -31,17 +31,17 @@ if (isset($_POST)) {
       ";
     die();
   }
-  if (empty($message)) {
-    echo " 
-       <script>
-              toastr.error('Message field cannot be empty', 'An Occured', {\"progressBar\": true});
-              document.getElementById('message').style.borderColor='red';
-             </script>
-     	";
-    die();
-  }
+  // if (empty($message)) {
+  // echo " 
+  //      <script>
+  //             toastr.error('Message field cannot be empty', 'An Occured', {\"progressBar\": true});
+  //             document.getElementById('message').style.borderColor='red';
+  //            </script>
+  //    	";
+  // die();
+  // }
 
-  $mail = new PHPMailer;
+  $mail = new PHPMailer(true);
   $mail->isSMTP();
   $mail->SMTPDebug = 0;
   $mail->Host = $smtp_host;
@@ -562,18 +562,17 @@ if (isset($_POST)) {
       ";
     // echo $smtp_username . " " . $smtp_host . " " . $smtp_port . " " . $emaillogo;
   } else {
-
     // throw Exception;
     echo "
-           <script> Swal.fire('An error occured!', 'Unable to send email at this moment, Please try again later', 'error');
+           <script> Swal.fire('An error occured!', 'Unable to send email at this moment, Please try again later ', 'error');
            </script>
       ";
     // echo $smtp_username . " " . $smtp_host . " " . $smtp_port;
     // return false;
-?>
+    ?>
     <meta http-equiv="refresh" content="3; url=../admin/email_user">
 
-<?php
+    <?php
   }
 }
 
